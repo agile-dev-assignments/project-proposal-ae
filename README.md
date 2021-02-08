@@ -11,3 +11,6 @@ Each user would create an account so that all their information and data can be 
 
 ### Scope
 This project is reasonable as a semester-long project since it requires the need for all aspects of a full-scope software project with the front-end, back-end, and all the planning required for the project process timeline. The software would require the ability to store and differentiate the personal data and information entered in by each user along with having a clean, straightforward, and yet aesthetically pleasing UI that would make it functional and appealing to users. Because of the multitude of tabs and features included in this software, the delegation of roles and work will not be an issue. If we happen to complete all the initial features earlier than expected we can always add more features as the software concept is very flexible and on the other hand if there are too many features than we can handle, we can always remove certain aspects.
+
+### Collaborators
+Elizabeth Lee and Ashley Sidoryk
